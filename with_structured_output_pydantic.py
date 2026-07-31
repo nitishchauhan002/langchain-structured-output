@@ -72,7 +72,6 @@ Pros:
 
 Review by Nitish Singh
 """
-
 # Invoke
 result = structured_model.invoke(review)
 
