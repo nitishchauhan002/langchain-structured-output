@@ -74,7 +74,6 @@ Review by Nitish Singh
 """
 # Invoke
 result = structured_model.invoke(review)
-
 # Print complete object
 print(result)
 
